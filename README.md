@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Chaitanya
 
-<!--
-**chaitanyakumarcodes/chaitanyakumarcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering @ IIT Hyderabad  
+💡 AI/ML | Data Science | Analytics
+📍 India  
 
-Here are some ideas to get you started:
+🚀 About Me
+- Strong interest in Data Analytics, Machine Learning & AI
+- Experience building end-to-end AI/ML applications
+- Passionate about solving real-world business problems using data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+- Languages: Python, SQL, C++  
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI 
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch, NLTK, OpenCV
+- Artificial Intelligence: LLM, RAG, LangChain, Hugging Face, Transformers, OpenAI, Prompt Engineering
+- Web/Tools: Flask/FastAPI, AWS, Git, GitHub, SQL Sever, PostgreSQL, Docker, Kubernetes
