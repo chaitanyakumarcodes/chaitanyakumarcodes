@@ -1,6 +1,6 @@
 Hi, I'm Chaitanya
 
-💼 AI @ **NPCI**
+💼 AI @ **NPCI**   
 🎓 Engineering @ **IIT Hyderabad**  
 💡 AI/ML | Data Science | Analytics
 
